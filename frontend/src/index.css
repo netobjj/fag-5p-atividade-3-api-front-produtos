@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 16px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.produto-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 300px;
+}
+
+.produto-form label {
+  display: flex;
+  flex-direction: column;
+}
+
+.produto-lista {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.produto-lista th,
+.produto-lista td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.mensagem.sucesso {
+  color: green;
+}
+
+.mensagem.erro {
+  color: red;
+}

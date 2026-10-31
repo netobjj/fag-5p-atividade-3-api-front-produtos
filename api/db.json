@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "nome": "dddddddd",
+      "preco": 44,
+      "id": 1
+    },
+    {
+      "nome": "342refwfefewf",
+      "preco": 44,
+      "id": 2
+    },
+    {
+      "nome": "r4rr4r",
+      "preco": 3333,
+      "id": 3
+    }
+  ]
+}
